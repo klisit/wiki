@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-02T08:51:48.160Z
+date: 2023-11-02T11:51:34.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -510,5 +510,125 @@ dateCreated: 2023-11-02T01:49:25.346Z
 
 
 # 一览
-test
+<details> <summary>当前版本武器一览</summary>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="8">武器战力计算公式 &nbsp;<strong>武器等级 x 50</strong></td>
+      </tr>
+      <tr>
+        <td>lv</td>
+        <td>火</td>
+        <td>冰</td>
+        <td>雷</td>
+        <td>土</td>
+        <td>光</td>
+        <td>暗</td>
+        <td>无属性</td>
+      </tr>
+      <tr>
+        <td>60</td>
+        <td>&nbsp;</td>
+        <td>『アイシクル』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>50</td>
+        <td>
+          <p>『神の送り火』</p>
+          <p>『チャネルキーパー』&nbsp;</p>
+        </td>
+        <td>
+          <p>『払暁の氷濤』</p>
+          <p>『ハードライン』</p>
+        </td>
+        <td>『神鳴り』</td>
+        <td>『豊穣』</td>
+        <td>『抱懐の灯』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>45</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『ディスカバリー』&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『ホーンドオウル』</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>40</td>
+        <td>『胎動鋼』</td>
+        <td>『レフュージ』</td>
+        <td>『無辜の誓願』</td>
+        <td>『アンセストラル』</td>
+        <td>
+          <p>『ブレイブ』</p>
+          <p>『マルディシオン』</p>
+        </td>
+        <td>『ストリーム』</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>35</td>
+        <td>&nbsp;</td>
+        <td>『無音の名残』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『ホーネット』</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td>『神の通い路』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『スティンガー』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『ドラゴンネイル』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>『アドベンチャーズ』</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>『訓練用』</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+  
+</details>
 
