@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-02T11:51:34.240Z
+date: 2023-11-02T13:06:34.066Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -629,6 +629,193 @@ dateCreated: 2023-11-02T01:49:25.346Z
     </tbody>
   </table>
 </figure>
-  
 </details>
 
+## Lv60 『アイシクル』シリーズ（冰）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">10</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">60</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">3000</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td>『猛掘！　ボルオム遺跡』首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p><strong>ボルオム荒砂x8</strong>（猛掘！　ボルオム遺跡）</p>
+          <p><strong>上質なバハマールイエローx8</strong>（凶闘！　機跡の谷）</p>
+          <p><strong>ダークエレメントの結晶x16 &nbsp;</strong>（呪霊たちの棲家 &nbsp;暗精灵）</p>
+          <p><strong>水晶の原石x30</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>1,801,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">凶闘！機跡の谷：<strong>☆硬骨の戦士</strong><br>猛掘！ボルオム遺跡：<strong>☆腕達者な頭領</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ドラウグキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>オーガキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>デミヒューマンキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>ドラウグキラー<strong>G2</strong></td>
+        <td>+21% ～ +23%</td>
+        <td>+15% ～ +18%</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>クアッドアームキラー<strong>G2</strong></td>
+        <td>+21% ～ +23%</td>
+        <td>+15% ～ +18%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/グレイシャーブレード_盾_.jpg"></figure>
+        </td>
+        <td>グレイシャーブレード</td>
+        <td>203</td>
+        <td>+15%</td>
+        <td rowspan="6">冰</td>
+        <td rowspan="6">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/クリスタルスラブ_斧.jpg"></figure>
+        </td>
+        <td>クリスタルスラブ</td>
+        <td>244</td>
+        <td>+15%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/ルミナスレイヤー_弓.jpg"></figure>
+        </td>
+        <td>ルミナスレイヤー</td>
+        <td>183</td>
+        <td>+12%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">38</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">36</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/ロックドスタッフ_杖_.jpg"></figure>
+        </td>
+        <td>ロックドスタッフ</td>
+        <td>244</td>
+        <td>+15%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">27</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/ダイアモンドシェル_锤_.jpg"></figure>
+        </td>
+        <td>ダイアモンドシェル</td>
+        <td>223</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60ice/アイシクルコート_枪.jpg"></figure>
+        </td>
+        <td>アイシクルコート</td>
+        <td>223</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
