@@ -2,13 +2,13 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-03T07:37:09.989Z
+date: 2023-11-03T07:38:09.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
 ---
 
-善用 <kbd>ctrl</kbd> <kbd>F</kbd> 搜索本页内容
+善用 <kbd>ctrl</kbd>+<kbd>F</kbd> 搜索本页内容
 # 插槽数
 武器最多可以有 4 个插座来安装能力插头。
 制造武器时概率如下
