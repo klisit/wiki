@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-03T20:14:11.826Z
+date: 2023-11-03T20:30:04.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -1561,10 +1561,192 @@ dateCreated: 2023-11-02T01:49:25.346Z
   </table>
 </figure>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+## Lv50『神鳴り』シリーズ（雷）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">50</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2500</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『再臨！　枷神の産屋』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>産屋アームズx16</p>
+          <p>イグニスエレメントの核x20</p>
+          <p style="text-align:center;">水晶の原石x30</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>1,801,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">再臨！　枷神の産屋：<strong>☆慈悲無き猛火</strong>　</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ムークキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>デミヒューマンキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>ゴブリンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/雷生剣_盾.jpg"></figure>
+        </td>
+        <td>雷生剣</td>
+        <td>173</td>
+        <td>+13%</td>
+        <td rowspan="6">雷</td>
+        <td rowspan="6">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/斬斧如稲光_斧.jpg"></figure>
+        </td>
+        <td>斬斧如稲光</td>
+        <td>208</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/春雷弓_.jpg"></figure>
+        </td>
+        <td>春雷弓</td>
+        <td>156</td>
+        <td>+10%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/雷雲呼び_杖_.jpg"></figure>
+        </td>
+        <td>雷雲呼び</td>
+        <td>208</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/遠雷召槌_.jpg"></figure>
+        </td>
+        <td>遠雷召槌</td>
+        <td>190</td>
+        <td>+14%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder/電影号_.jpg"></figure>
+        </td>
+        <td>電影号</td>
+        <td>190</td>
+        <td>+14%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-
-
-
+## Lv50 『払暁の氷濤』シリーズ（氷）
