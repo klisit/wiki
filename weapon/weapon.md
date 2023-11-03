@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-03T01:07:52.887Z
+date: 2023-11-03T01:25:37.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -1001,3 +1001,6 @@ dateCreated: 2023-11-02T01:49:25.346Z
     </tbody>
   </table>
 </figure>
+
+## Lv50 『チャネルキーパー』シリーズ（火）
+
