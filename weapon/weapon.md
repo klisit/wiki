@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-03T01:25:37.461Z
+date: 2023-11-03T01:27:26.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -1003,4 +1003,185 @@ dateCreated: 2023-11-02T01:49:25.346Z
 </figure>
 
 ## Lv50 『チャネルキーパー』シリーズ（火）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">9</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">50</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2500</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td>主线剧情 <strong>『アインレイン救出</strong>』内<strong>『バーンハルト城旧地下水路』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>尖った装甲片x12</p>
+          <p>カニクモトラッパーのハサミx15（暁の虫砦・自由探索）</p>
+          <p>環状石x15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>1,616,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">バーンハルト城旧地下水路：<strong>PMドゴルマンβ型</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>クアッドアームキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ゴブリンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>グランドキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラーG1</td>
+        <td>+?% ～ +?%</td>
+        <td>+?% ～ +?%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードソード・火_盾.jpg"></figure>
+        </td>
+        <td>ピースガードソード・火</td>
+        <td>166</td>
+        <td>+16%</td>
+        <td rowspan="6">火</td>
+        <td rowspan="6">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードアクス・火_斧.jpg"></figure>
+        </td>
+        <td>ピースガードアクス・火</td>
+        <td>199</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">33</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードボウ・火_弓.jpg"></figure>
+        </td>
+        <td>ピースガードボウ・火</td>
+        <td>149</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">36</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">34</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードロッド・火_杖.jpg"></figure>
+        </td>
+        <td>ピースガードロッド・火</td>
+        <td>199</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">33</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードハンマー・火_锤.jpg"></figure>
+        </td>
+        <td>ピースガードハンマー・火</td>
+        <td>183</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire/ピースガードスピア・火_枪.jpg"></figure>
+        </td>
+        <td>ピースガードスピア・火</td>
+        <td>183</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
+## Lv50 『抱懐の灯火』シリーズ（光）
