@@ -2,7 +2,7 @@
 title: Twin Striker 双斧
 description: 『ツインストライカー 』
 published: true
-date: 2023-10-30T15:20:03.697Z
+date: 2023-11-04T15:47:17.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T22:07:50.085Z
@@ -13,8 +13,7 @@ dateCreated: 2023-10-21T22:07:50.085Z
 使用两把斧头发动如烈火般猛烈攻击的近战职业。 通过不断地重复攻击，其威力会超越极限，进一步增强。 
 
 ![](/职业图标/双斧特写.jpg)
-
-出镜：我女儿（
+~~出镜：我女儿（~~
 
 # 职业概要
 
