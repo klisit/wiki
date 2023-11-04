@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-04T10:49:00.327Z
+date: 2023-11-04T10:59:12.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -1934,3 +1934,197 @@ dateCreated: 2023-11-02T01:49:25.346Z
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+## Lv50 『神の送り火』シリーズ（火）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">50</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2500</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『亢進！　神懸の御柱』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>高性能集積コアx8</p>
+          <p>堅固な太牙の化石x8</p>
+          <p>ゴブリンセージの杖x15</p>
+          <p style="text-align:center;">環状石x15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>1,801,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">
+          <p>亢進！　神懸の御柱：<strong>☆エングレイヴァー</strong></p>
+          <p>　激闘！　巨竜の爪痕：<strong>タイラントボア・グロウ</strong></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ゴブリンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>デミヒューマンキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>ボアキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>ドゴルマンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/極焔武具揃_盾.jpg"></figure>
+        </td>
+        <td>極焔武具揃</td>
+        <td>173</td>
+        <td>+15%</td>
+        <td rowspan="6">火</td>
+        <td rowspan="6">10</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/神宿りの焔斧_斧.jpg"></figure>
+        </td>
+        <td>神宿りの焔斧</td>
+        <td>208</td>
+        <td>+15%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/神秘の火箭_弓.jpg"></figure>
+        </td>
+        <td>神秘の火箭</td>
+        <td>156</td>
+        <td>+12%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/火の粉散らす神杖_杖.jpg"></figure>
+        </td>
+        <td>火の粉散らす神杖</td>
+        <td>208</td>
+        <td>+15%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/熾火の神代槌_锤.jpg"></figure>
+        </td>
+        <td>熾火の神代槌</td>
+        <td>190</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50fire_2/天上火片槍_枪.jpg"></figure>
+        </td>
+        <td>天上火片槍</td>
+        <td>190</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
