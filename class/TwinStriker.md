@@ -2,7 +2,7 @@
 title: Twin Striker 双斧
 description: 『ツインストライカー 』
 published: true
-date: 2023-11-04T15:47:17.022Z
+date: 2023-11-05T08:41:24.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T22:07:50.085Z
@@ -489,7 +489,7 @@ G1:HP吸収【回复量:20%】　G3α:HP吸収【回复量:24%】
 </figure>
 <p><strong>スタミナセーブ：全・G1 ：</strong>全st消费降低3%</p>
 <p><strong>マグニアの雫G1：</strong>15s内全st消费降低25%</p>
-<p>当前版本st最大能堆叠到191 （基础<strong>100</strong> <strong>、</strong> 武器插头<strong>気合の奔流G1.2.3全满星</strong>+36<strong> 、 E-イマジンで </strong>+15<strong> 、 B-イマジンで</strong>+10<strong> 、锤子天赋 </strong>+30）</p>
+<p>当前版本st最大能堆叠到191 （基础<strong>100</strong> <strong>、</strong> 武器插头<strong>気合の奔流G1.2.3全满星</strong>+36<strong> 、 E幻想 </strong>+15<strong> 、 B幻想</strong>+10<strong> 、锤子天赋 </strong>+30）</p>
 </details>
 
 > 倍率：
