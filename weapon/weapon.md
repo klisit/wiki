@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-04T10:59:12.619Z
+date: 2023-11-16T11:48:32.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -2128,3 +2128,187 @@ dateCreated: 2023-11-02T01:49:25.346Z
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">45</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2,250</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td>主线任务<strong>『カーヴェインの隠れ家』</strong>内<strong>『カルトゥームの砂岩回廊』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>くすんだ砂x12</p>
+          <p>エビキノコポイズンの尾x3</p>
+          <p>環状石x5</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>1,314,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">カルトゥームの砂岩回廊：<strong>ドゴルマン</strong>　</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ドゴルマンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>デミヒューマンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>グランドキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>ドゴルマンキラー <strong>G2</strong></td>
+        <td>+??% ～ +??%</td>
+        <td>+?% ～ +?%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリーソード・土_盾.jpg"></figure>
+        </td>
+        <td>ディスカバリーソード・土</td>
+        <td>161</td>
+        <td>+12%</td>
+        <td rowspan="6">土</td>
+        <td rowspan="6">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリーアックス・土_斧.jpg"></figure>
+        </td>
+        <td>ディスカバリーアックス・土</td>
+        <td>193</td>
+        <td>+12%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリーボウ・土_弓.jpg"></figure>
+        </td>
+        <td>ディスカバリーボウ・土</td>
+        <td>145</td>
+        <td>+10%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">36</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリースタッフ・土_杖.jpg"></figure>
+        </td>
+        <td>ディスカバリースタッフ・土</td>
+        <td>193</td>
+        <td>+12%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">27</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリーハンマー・土_锤.jpg"></figure>
+        </td>
+        <td>ディスカバリーハンマー・土</td>
+        <td>177</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">10</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv45earth/ディスカバリースピア・土_枪.jpg"></figure>
+        </td>
+        <td>ディスカバリースピア・土</td>
+        <td>177</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">10</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
