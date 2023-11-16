@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-16T12:05:18.655Z
+date: 2023-11-16T12:53:02.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -2500,4 +2500,189 @@ dateCreated: 2023-11-02T01:49:25.346Z
 <p>&nbsp;</p>
 
 ## Lv40 『マルディシオン』シリーズ（光）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">40</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2,000</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『呪われし煌墓・調査』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>煌墓木x16</p>
+          <p>ゴブリンウォーロードの牙x15</p>
+          <p>環状石x15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>813,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">呪われし煌墓・調査：<strong>ドラウグ・アルマ</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>トライポッドキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>ビーストキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>クアッドアームキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンソード・光_盾.jpg"></figure>
+        </td>
+        <td>マルディシオンソード・光</td>
+        <td>148</td>
+        <td>+10%</td>
+        <td rowspan="6">光</td>
+        <td rowspan="6">9</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンアックス・光_斧.jpg"></figure>
+        </td>
+        <td>マルディシオンアックス・光</td>
+        <td>178</td>
+        <td>+10%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンボウ・光_弓.jpg"></figure>
+        </td>
+        <td>マルディシオンボウ・光</td>
+        <td>133</td>
+        <td>+8%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンスタッフ・光_杖.jpg"></figure>
+        </td>
+        <td>マルディシオンスタッフ・光</td>
+        <td>178</td>
+        <td>+10%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">10</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンハンマー・光_锤.jpg"></figure>
+        </td>
+        <td>マルディシオンハンマー・光</td>
+        <td>163</td>
+        <td>+11%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">9</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light/マルディシオンスピア・光_枪.jpg"></figure>
+        </td>
+        <td>マルディシオンスピア・光</td>
+        <td>163</td>
+        <td>+11%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Lv40 『ストリーム』シリーズ（闇）
 <p>&nbsp;</p>
