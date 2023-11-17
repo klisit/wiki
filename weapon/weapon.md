@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-16T12:53:02.920Z
+date: 2023-11-17T02:05:13.811Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -2685,4 +2685,189 @@ dateCreated: 2023-11-02T01:49:25.346Z
 <p>&nbsp;</p>
 
 ## Lv40 『ストリーム』シリーズ（闇）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">40</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2,000</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『水精の踊り場』</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>フェアリーマリンx12</p>
+          <p>ドゴルマンの生爪x15</p>
+          <p>環状石x15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>808,400</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">水精の踊り場・追加調査:<strong>ドゴルマン</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>山賊キラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>フロートキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>フラックスキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームソード・闇_盾.jpg"></figure>
+        </td>
+        <td>ストリームソード・闇</td>
+        <td>137</td>
+        <td>+16%</td>
+        <td rowspan="6">暗</td>
+        <td rowspan="6">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">9</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームアックス・闇_斧.jpg"></figure>
+        </td>
+        <td>ストリームアックス・闇</td>
+        <td>164</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">9</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームボウ・闇_弓.jpg"></figure>
+        </td>
+        <td>ストリームボウ・闇</td>
+        <td>123</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームスタッフ・闇_杖.jpg"></figure>
+        </td>
+        <td>ストリームスタッフ・闇</td>
+        <td>164</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">9</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">12</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームハンマー・闇_锤.jpg"></figure>
+        </td>
+        <td>ストリームハンマー・闇</td>
+        <td>151</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">8</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40dark/ストリームスピア・闇_枪.jpg"></figure>
+        </td>
+        <td>ストリームスピア・闇</td>
+        <td>151</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">8</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Lv40 『ブレイブ』シリーズ（光）
 <p>&nbsp;</p>
