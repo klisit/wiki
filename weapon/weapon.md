@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-17T02:05:13.811Z
+date: 2023-11-17T02:17:03.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -2870,4 +2870,189 @@ dateCreated: 2023-11-02T01:49:25.346Z
 <p>&nbsp;</p>
 
 ## Lv40 『ブレイブ』シリーズ（光）
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">8</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">40</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2,000</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td>主线任务<strong>「 謎の老人」</strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>
+          <p>ボルオム砂x14</p>
+          <p>エルダーゴブリンの杖x3</p>
+          <p>水晶の原石x10</p>
+        </td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>781,900</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">ボルオム遺跡・追加調査:<strong>☆腕達者な頭領</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>バファリアキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ホークキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>ゴブリンキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブソード・光_盾.jpg"></figure>
+        </td>
+        <td>ブレイブソード・光</td>
+        <td>142</td>
+        <td>+13%</td>
+        <td rowspan="6">光</td>
+        <td rowspan="6">9</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブアックス・光_斧.jpg"></figure>
+        </td>
+        <td>ブレイブアックス・光</td>
+        <td>170</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブボウ・光_弓.jpg"></figure>
+        </td>
+        <td>ブレイブボウ・光</td>
+        <td>128</td>
+        <td>+10%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブスタッフ・光_杖.jpg"></figure>
+        </td>
+        <td>ブレイブスタッフ・光</td>
+        <td>170</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブハンマー・光_锤.jpg"></figure>
+        </td>
+        <td>ブレイブハンマー・光</td>
+        <td>156</td>
+        <td>+14%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv40light_2/ブレイブスピア・光_枪.jpg"></figure>
+        </td>
+        <td>ブレイブスピア・光</td>
+        <td>156</td>
+        <td>+14%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Lv40 『胎動鋼』シリーズ（火）
 <p>&nbsp;</p>
