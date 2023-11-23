@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-17T03:57:33.253Z
+date: 2023-11-23T08:19:52.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -92,6 +92,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td colspan="2">ゴブリンキラー</td>
         <td>1</td>
         <td>
+          <p>Lv60 『デッドライン』</p>
           <p>Lv50 『チャネルキーパー』</p>
           <p>Lv50 『神の送り火』</p>
           <p>Lv50 『豊穣』</p>
@@ -191,6 +192,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td colspan="2">バイパーキラー</td>
         <td>1</td>
         <td>
+          <p>Lv60 『デッドライン』</p>
           <p>Lv40 『アンセストラル』</p>
           <p>Lv25 『スティンガー』</p>
         </td>
@@ -398,6 +400,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td>ビーストキラー</td>
         <td>1</td>
         <td>
+          <p>Lv60 『デッドライン』</p>
           <p>Lv40 『胎動鋼』</p>
           <p>Lv40 『マルディシオン』</p>
         </td>
@@ -533,7 +536,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td>&nbsp;</td>
         <td>『アイシクル』</td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>『デッドライン』</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -551,7 +554,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td>『神鳴り』</td>
         <td>『豊穣』</td>
         <td>『抱懐の灯』</td>
-        <td>&nbsp;</td>
+        <td>『ディスクリート』</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
