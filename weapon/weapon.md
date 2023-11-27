@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-23T08:42:45.635Z
+date: 2023-11-27T14:06:51.211Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -704,9 +704,9 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td colspan="4">掉落限定</td>
       </tr>
       <tr>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>オーガキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
         <td>-</td>
       </tr>
     </tbody>
