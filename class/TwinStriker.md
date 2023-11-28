@@ -2,7 +2,7 @@
 title: Twin Striker 双斧
 description: 『ツインストライカー 』
 published: true
-date: 2023-11-28T02:23:18.440Z
+date: 2023-11-28T02:37:02.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T22:07:50.085Z
@@ -546,7 +546,10 @@ G1:HP吸収【回复量:20%】　G3α:HP吸収【回复量:24%】
   </table>
 </figure>
 
+G1减伤约为10%（需验证）α减伤约为30%（需验证）
+β回复量约为15%
 
+十分泛用的辅助技能，极高的霸体覆盖率能让你在连续输出时不被打断
 
 # 天赋
 
