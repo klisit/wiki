@@ -2,7 +2,7 @@
 title: Twin Striker 双斧
 description: 『ツインストライカー 』
 published: true
-date: 2023-11-05T08:41:24.855Z
+date: 2023-11-28T02:23:18.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T22:07:50.085Z
@@ -171,7 +171,7 @@ dateCreated: 2023-10-21T22:07:50.085Z
 
 闪避时同时按下左右键触发
 
-极限回避成功后赋予自身伤害增加
+极限回避成功后造成的伤害增加
 
 > 倍率：
 > 回避攻击 118%
