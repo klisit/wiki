@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-11-27T14:06:51.211Z
+date: 2023-12-04T11:20:22.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -479,7 +479,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
         <td>&nbsp;</td>
         <td>
           <p>【特性：机械化】</p>
-          <p>怪物名字前带M的都是</p>
+          <p>怪物名字前带M和PM的都是</p>
         </td>
       </tr>
       <tr>
