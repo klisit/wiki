@@ -2,7 +2,7 @@
 title: 武器
 description: 
 published: true
-date: 2023-12-04T11:20:22.051Z
+date: 2023-12-22T11:45:24.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T01:49:25.346Z
@@ -533,7 +533,7 @@ dateCreated: 2023-11-02T01:49:25.346Z
       </tr>
       <tr>
         <td>60</td>
-        <td>&nbsp;</td>
+        <td>『火守の騎士』 <font color=#D22B2B size=4>New</font></td>
         <td>『アイシクル』</td>
         <td>&nbsp;</td>
         <td>『デッドライン』</td>
@@ -551,7 +551,8 @@ dateCreated: 2023-11-02T01:49:25.346Z
           <p>『払暁の氷濤』</p>
           <p>『ハードライン』</p>
         </td>
-        <td>『神鳴り』</td>
+        <td>『神鳴り』
+        『光芒一閃』 <font color=#D22B2B size=4>New</font> </td>
         <td>『豊穣』</td>
         <td>『抱懐の灯』</td>
         <td>『ディスクリート』</td>
@@ -635,7 +636,188 @@ dateCreated: 2023-11-02T01:49:25.346Z
 </figure>
 </details>
 
-## Lv.60 『デッドライン』シリーズ（土）<font color=#D22B2B size=4>New</font>
+## Lv.60 『火守の騎士』シリーズ（火）<font color=#D22B2B size=4>New</font>
+<p>&nbsp;</p>
+<figure style="text-align:center;" class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">11</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">60</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">3,000</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『異観！ 巨塔の遺跡』 </strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td colspan="2" style="background-color:white;padding:4px;">異観！ 巨塔の遺跡</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>强化</p>
+<figure style="text-align:center;" class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ホークキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ボアキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>フロートキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>オーガキラーG1</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure style="text-align:center;" class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/火守騎士の刃.jpg"></figure>
+        </td>
+        <td>火守騎士の刃</td>
+        <td>199</td>
+        <td>+16%</td>
+        <td rowspan="6">火</td>
+        <td rowspan="6">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">22</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">27</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/沸騰血の恐斧.jpg"></figure>
+        </td>
+        <td>沸騰血の恐斧</td>
+        <td>239</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/夜裂きの光.jpg"></figure>
+        </td>
+        <td>夜裂きの光</td>
+        <td>179</td>
+        <td>+13%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">38</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/操炎戒杖.jpg"></figure>
+        </td>
+        <td>操炎戒杖</td>
+        <td>239</td>
+        <td>+16%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">20</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/律動する炎.jpg"></figure>
+        </td>
+        <td>律動する炎</td>
+        <td>219</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">24</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">30</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">27</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv60fire/緋煙真槍.jpg"></figure>
+        </td>
+        <td>緋煙真槍</td>
+        <td>219</td>
+        <td>+18%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">28</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">27</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">18</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Lv.60 『デッドライン』シリーズ（土）
 <p>&nbsp;</p>
 <figure class="table" style="text-align:center;">
   <table>
@@ -1008,7 +1190,191 @@ dateCreated: 2023-11-02T01:49:25.346Z
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Lv50 『ディスクリート』シリーズ（闇）<font color=#D22B2B size=4>New</font>
+
+## Lv50 『光芒一閃』シリーズ（雷）<font color=#D22B2B size=4>New</font>
+<p>&nbsp;</p>
+
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>冒险者等级</td>
+        <td colspan="2">10</td>
+      </tr>
+      <tr>
+        <td>武器等级</td>
+        <td colspan="2">50</td>
+      </tr>
+      <tr>
+        <td>战力加成</td>
+        <td colspan="2">2,500</td>
+      </tr>
+      <tr>
+        <td rowspan="3">素材</td>
+        <td>设计图获取</td>
+        <td><strong>『亡国の工廠・調査』 </strong>首通</td>
+      </tr>
+      <tr>
+        <td>制作素材</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>掉落</td>
+        <td style="background-color:white;padding:4px;" colspan="2">亡国の工廠・調査</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>强化</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>特攻</td>
+        <td>大成功效果</td>
+        <td>成功效果</td>
+        <td>概率</td>
+      </tr>
+      <tr>
+        <td>ゴーレムキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>20%</td>
+      </tr>
+      <tr>
+        <td>ドラウグキラー</td>
+        <td>+11% ～ +13%</td>
+        <td>+5% ～ +8%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>バファリアキラー</td>
+        <td>+9% ～ +11%</td>
+        <td>+4% ～ +7%</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td colspan="4">掉落限定</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<figure class="table" style="text-align:center;">
+  <table>
+    <tbody>
+      <tr>
+        <td>图标</td>
+        <td>名称</td>
+        <td>攻击</td>
+        <td>会心力</td>
+        <td>属性</td>
+        <td>属性攻击</td>
+        <td>筋力</td>
+        <td>耐久</td>
+        <td>器用</td>
+        <td>知力</td>
+        <td>精神</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・剣・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・剣・雷</td>
+        <td>166</td>
+        <td>+17%</td>
+        <td rowspan="6">雷</td>
+        <td rowspan="6">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">19</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・斧・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・斧・雷</td>
+        <td>199</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・弓矢・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・弓矢・雷</td>
+        <td>149</td>
+        <td>+14%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">17</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">38</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">15</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">38</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・杖・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・杖・雷</td>
+        <td>199</td>
+        <td>+17%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">13</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">29</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">25</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">35</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・鎚・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・鎚・雷</td>
+        <td>183</td>
+        <td>+19%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">21</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">16</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">26</td>
+      </tr>
+      <tr>
+        <td>
+          <figure class="image"><img src="/wuqi/lv50thunder_2/光芒一閃・槍・雷.jpg"></figure>
+        </td>
+        <td>光芒一閃・槍・雷</td>
+        <td>183</td>
+        <td>+19%</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">23</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">14</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">11</td>
+        <td style="background-color:rgb(238, 238, 238);padding:4px;text-align:center;width:40px;">32</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Lv50 『ディスクリート』シリーズ（闇）
 
 <p>&nbsp;</p>
 <figure class="table" style="text-align:center;">
